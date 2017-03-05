@@ -8,7 +8,7 @@ Sistema Trabalha Brasil
         Mitz Tecnology
     </author>
     <icon src="logo.png" />
-    <content src="index.html" />
+    <content src="https://bo.trabalhabr.com.br/" />
     <plugin name="cordova-plugin-whitelist" spec="1" />
     <access origin="*" />
     <allow-intent href="http://*/*" />
